@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Lexical-Analyzer-Webapp/static/css/main.321f6800.css",
+    "main.js": "/Lexical-Analyzer-Webapp/static/js/main.1b865439.js",
+    "index.html": "/Lexical-Analyzer-Webapp/index.html",
+    "main.321f6800.css.map": "/Lexical-Analyzer-Webapp/static/css/main.321f6800.css.map",
+    "main.1b865439.js.map": "/Lexical-Analyzer-Webapp/static/js/main.1b865439.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.321f6800.css",
+    "static/js/main.1b865439.js"
+  ]
+}
